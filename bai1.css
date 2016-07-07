@@ -1,0 +1,103 @@
+
+*{
+	box-sizing: border-box;
+}
+
+body{
+	 background: url(cloth_alike.png);
+	 /* background: url(thu/ky.jpg) fixed;*/
+	 font-family: Tahoma;
+ }
+ 
+.bar{
+     width: 100%; 
+}
+
+a{
+	text-decoration:none;
+	color: pink;
+}
+
+.content{
+  width: 100%;
+  
+  
+  }
+  .sidebar{
+  
+  width: 300px;
+  float: left;
+ 
+  
+  }
+  .noidung{
+	width: 660px;
+	
+	float: left;
+	
+	padding:20px;
+  }
+  .divvv{
+	  margin:auto;
+	  width:960px;
+  }
+  .logo{
+	  width:300px;
+	  height:100px;
+	  
+  }
+  .menu{
+	  background:gray;
+	  width:100%;
+  }
+  
+  .menu a{
+	color: white;  
+  }
+  
+  
+  .tenmenu{
+	font-size:20px;
+	float:left;
+	text-transform: uppercase;
+	padding: 20px;
+	font-family: Serif;
+  }
+  
+  .tenmenu:hover{
+	background: green;
+  }
+  
+  .active{
+	  background: green;
+  }
+  
+  .nd{
+	  color:green;
+  }
+  .size3{
+	  color:green;
+	  font-size:20px;
+	  margin-bottom:20px;
+	  
+  }
+  .size1{
+	  font-style:italic;
+	  margin-bottom:20px;
+  }
+  .cuoitrang{
+	  background: gray;
+	  color:white;
+	  margin-top:30px;
+	  margin-bottom:30px;
+	  height:50px;
+	  padding-top:25px;
+	  padding-left:60px;
+  }
+  .read{
+	  margin-bottom:50px;
+  }
+  .ul {
+    list-style-image: url(ahihi.png);
+}
+  
